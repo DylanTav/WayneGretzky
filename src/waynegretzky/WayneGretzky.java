@@ -17,7 +17,7 @@ public class WayneGretzky {
         Num = "99"; // Num holds a value of 99
         Wayne = "Wayne Gretzky"; // Wayne holds Wayne Gretzky in the varaible
         
-        System.out.println(Wayne + " is number " + Num); //prints Wayne to the screen 
+        System.out.println(Wayne + " is number " + Num); //prints Wayne Grezky is number is Num to the screen 
     
 }
 }
